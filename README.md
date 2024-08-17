@@ -10,7 +10,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-
+5. 🔗 [Deployed Site](#deployed-site)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -91,6 +91,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## Deployed Site
+## <a name="deployed-site">🔗 Deployed Site</a>
 
 Here is the live demo for this projects. Click on the links to explore the fully functional versions and see how this project showcases different aspects of frontend development: [Nike Landing Page](https://my-nikelandingpage-project.netlify.app/)
